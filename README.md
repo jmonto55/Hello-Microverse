@@ -1,57 +1,53 @@
-📖# Hello-Microverse
+# 📖 Hello Microverse 
 
-Hello Microverse is a test project built to understand the basics of professional git workflows
+Hello Microverse is a test project built to understand the basics of professional git workflows.
 
-##🛠 Built With
+## 🛠 Built With
 Tech Stack
-We used html for the project structure and css to give styles
+We used html for the project structure and css to give styles.
 
 
-##Key Features
-Describe between 1-3 key features of the application.
+## Key Features
+- This is a stable version
+- Running the code will print 'Hello world'.
 
-This is a stable version
-Running the code will print 'Hello world'
+## 💻 Getting Started
 
-##💻 Getting Started
-
-###Prerequisites
+### Prerequisites
 In order to run this project you need:
-A functional internet browser
+A functional internet browser.
 
-###Setup
-Clone this repository to your desired folder or download the files
+### Setup
+Clone this repository to your desired folder or download the files.
 
 
-##👥 Authors
+## 👥 Authors
 
-###👤 Khaled
+### 👤 Khaled
 GitHub: @glitcher255
 
-###👤 Jose
+### 👤 Jose
 GitHub: @jmonto55
 
-##🔭 Future Features
-The next version will have a 'Hello Universe' option
+## 🔭 Future Features
+The next version will have a 'Hello Universe' option.
 
-##🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!.
 Feel free to check the issues page.
 
-##⭐️ Show your support
-If you like this project use it !
+## ⭐️ Show your support
+If you like this project use it.
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 I would like to thank Microverse for the information provided to build this project
 
-##❓ FAQ
-[Question_1]
+## ❓ FAQ
+- Can you download and use the project?
 
-[Answer_1]
-[Question_2]
-
-[Answer_2]
+  Yes, the project is open source, feel free to copy and use it.
 
 
-##📝 License
+
+## 📝 License
 This project is MIT licensed.
